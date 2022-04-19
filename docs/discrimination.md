@@ -1,10 +1,3 @@
-```shell
-layout: page
-title: "地方公务员招聘中的性别歧视"
-permalink: /test12/
-```
-
-
 
 # 我国地方公务员招聘中的性别不平等现状
 
