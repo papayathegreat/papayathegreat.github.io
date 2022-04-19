@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[test12](test12.html)
+[test12](discrimination.md)
 
 You can use the [editor on GitHub](https://github.com/papayathegreat/papayathegreat.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
